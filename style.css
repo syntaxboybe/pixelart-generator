@@ -10,7 +10,7 @@ body{
 }
 
 .wrapper{
-    background-color: #fff;
+    background-color: black;
     width: 80vmin;
     position: absolute;
     transform: translate(-50%, -50%);
